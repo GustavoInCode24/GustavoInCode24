@@ -27,7 +27,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meu conheci
 
 ## 📊 Estatísticas do GitHub
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=dark)
+[Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=dark)
 
 ![Estatísticas do GitHub do Gustavo](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=dark)
 
