@@ -2,7 +2,7 @@
 
 Sou um **Desenvolvedor Full Stack** em formação pela **Fatec Praia Grande**, apaixonado por transformar ideias inovadoras em soluções web robustas e intuitivas. Com uma mente versátil e adaptável, transito entre o desenvolvimento web, mobile, e engenharia de ML, sempre buscando expandir meu conhecimento em diversas tecnologias.
 
-Minha paixão por construir ferramentas que resolvem problemas me impulsiona a explorar novas stacks e a aprimorar minhas habilidades constantemente. Recentemente, demonstrei minhas competências em um projeto desafiador de desenvolvimento web com Laravel, onde construí um sistema CRUD completo e seguro para gerenciamento de e-commerce.
+Guiado pela paixão em construir ferramentas que resolvem problemas, estou em constante busca por novas stacks e pelo aprimoramento contínuo de minhas habilidades, garantindo a entrega de sistemas robustos e seguros.
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e crescer profissionalmente.
 
