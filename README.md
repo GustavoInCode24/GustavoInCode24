@@ -22,17 +22,6 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar meu conheci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 🧐 Mais Sobre Mim:
-
-* 🔭 Atualmente estou trabalhando em: [Nome do seu projeto atual, ex: youtube-audio-player]
-* 🤝 Busco colaborar em: [Nome do projeto que busca colaboração, ex: sheets-database]
-* 🌱 Atualmente estou aprendendo: Typescript
-* 👨🏻‍💻 A maioria dos meus projetos está disponível no: [GitHub](https://github.com/GustavoInCode24)
-* 🎨 Usando [este svg](Link para o SVG se houver) e Figma eu fiz 👉 [Link para seu design se houver]
-* 💬 Sinta-se à vontade para perguntar sobre qualquer coisa relacionada a tecnologia, ficarei feliz em ajudar!
-* 📫 Me encontre no: [LinkedIn](https://www.linkedin.com/in/gustavo-lemos-de-oliveira-31590b322/)
-* 📝 Confira meu: [Currículo](Link para seu currículo online ou PDF)
-* 📚 Quando estou livre, leio romances de fantasia e ficção. Veja meu [Goodreads](Link para seu perfil Goodreads) para ver os livros que li.
 
 ---
 
