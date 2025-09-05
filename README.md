@@ -10,8 +10,6 @@ Com uma mente versátil, atuo no desenvolvimento **web**, **mobile** e em projet
 
 ## 🛠️ Tecnologias & Ferramentas
 
-## 🛠️ Tecnologias & Ferramentas
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
