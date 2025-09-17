@@ -26,30 +26,11 @@ Atuo com desenvolvimento **web**, **mobile** e projetos de **machine learning**,
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-### 🔹 Estatísticas Gerais
-
-[![Meus GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/GustavoInCode24)
-
-- Total de repositórios públicos: **[SEU_NUMERO]**
-- Total de commits (todos os repositórios): **[SEU_NUMERO]**
-- Projetos em andamento: **[SEU_NUMERO]**
-- Principais áreas de contribuição: **[ex: ML, APIs, Front-end,...]**
-
 ### 🔹 Linguagens Mais Usadas
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=dark)](https://github.com/GustavoInCode24)
 
-| Linguagem | Percentual estimado* |
-|-----------|-------------------------|
-| **Linguagem 1** | **[xx%]** |
-| **Linguagem 2** | **[xx%]** |
-| **Linguagem 3** | **[xx%]** |
-| **Linguagem 4** | **[xx%]** |
-| **Linguagem 5** | **[xx%]** |
 
-> \*Dados automáticos gerados pelo GitHub Readme Stats — podem variar com o tempo.
 
 ---
 
