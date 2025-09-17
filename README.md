@@ -60,48 +60,6 @@ Com uma mente versátil, atuo no desenvolvimento **web**, **mobile** e em projet
 
 </p>
 
-@@ -29,21 +29,35 @@
-
-## 📊 Estatísticas do GitHub
-
-
-
-### 🔹 Estatísticas Gerais
-
-
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/GustavoInCode24)
-
-
-
-
-
-
-
-
-
-### 🔹 Linguagens Mais Usadas
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=dark)](https://github.com/GustavoInCode24)
-
-
-
-
-### 🔹 Extra: Atividade no GitHub
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoInCode24&theme=dark&hide_border=true)
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
