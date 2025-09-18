@@ -72,11 +72,6 @@ Com uma mente versátil, atuo no desenvolvimento **web**, **mobile** e em projet
 
 
 
-### 🔹 Extra: Atividade no GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoInCode24&theme=dark&hide_border=true)
-
-
 
 ---
 
