@@ -60,7 +60,7 @@ Com uma mente versátil, atuo no desenvolvimento **web**, **mobile** e em projet
 
 
 
-### 🔹 Estatísticas Gerais
+####🔹 Estatísticas Gerais
 
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/GustavoInCode24)
 
