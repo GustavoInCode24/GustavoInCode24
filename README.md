@@ -42,8 +42,6 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ---
 
-
-
 ## 📊 Estatísticas do GitHub
 
 
@@ -53,12 +51,9 @@ With a multidisciplinary approach, I work on development for both web and mobile
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/GustavoInCode24)
 
 
-
 ### 🔹 Linguagens Mais Usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=dark)](https://github.com/GustavoInCode24)
-
-
 
 
 ---
@@ -67,16 +62,9 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ## 🌐 Onde me encontrar
 
-
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavolemosdeoliveira)  
 
 - 📧 gugalemos103@gmail.com  
 
 
 
----
-
-
-
-✨ _"Tecnologia é a ponte entre ideias e soluções."_ ✨
