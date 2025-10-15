@@ -1,32 +1,20 @@
-# 👋 Olá, eu sou o Gustavo Lemos de Oliveira
+# 👋 Hello, I'm Gustavo Lemos de Oliveira
 
+I'm a Full Stack Developer in training at Fatec Praia Grande, driven by the challenge of transforming complex ideas into efficient, secure, and intuitive digital solutions.
+With a multidisciplinary approach, I work on development for both web and mobile platforms, constantly exploring new tools, frameworks, and methodologies to push the boundaries of what technology can deliver.
 
+🔎 I'm passionate about using code to solve real-world problems, creating solutions that generate meaningful value for people and businesses.
 
-Sou um **Desenvolvedor Full Stack** em formação pela **Fatec Praia Grande**, apaixonado por transformar ideias em soluções digitais robustas, seguras e intuitivas.  
-
-Com uma mente versátil, atuo no desenvolvimento **web**, **mobile** e em projetos ligados à **engenharia de ML**, sempre em busca de evoluir minhas habilidades e explorar novas tecnologias.
-
-
-
-🔎 Minha motivação é resolver problemas reais através da tecnologia, criando ferramentas que façam a diferença no dia a dia das pessoas e empresas.  
-
-🚀 Estou constantemente em busca de **novos desafios** e **oportunidades de crescimento profissional**.  
-
-
+🚀 I enjoy technical challenges and I'm always looking for opportunities to grow, both as a developer and as a creative problem-solver in the tech ecosystem.**.  
 
 ---
-
 
 
 ## 🛠️ Tecnologias & Ferramentas
 
 
-
 <p align="center">
-
-
-
-
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
