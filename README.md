@@ -62,7 +62,7 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ### 🧰 **Ferramentas**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" alt="GitHub" style="filter: invert(1);"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg](https://camo.githubusercontent.com/b88f9607b30846205db0467c8c1f64f9df8b9321f75665d110878a68695e3184/68747470733a2f2f696d616765732e69636f6e2d69636f6e732e636f6d2f333638352f504e472f3531322f6769746875625f6c6f676f5f69636f6e5f3232393237382e706e67)" width="50" height="50" alt="GitHub" style="filter: invert(1);"/>
 </div>
 
 ---
