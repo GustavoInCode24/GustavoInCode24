@@ -62,8 +62,24 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ### 🧰 **Ferramentas**
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="50" height="50" alt="GitHub" style="fill:#FFFFFF;"/>
+
+
+  <svg width="50" height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      /* Define cor de acordo com tema do sistema */
+      svg path {
+        fill: black; /* padrão claro */
+      }
+      @media (prefers-color-scheme: dark) {
+        svg path {
+          fill: white; /* fundo escuro */
+        }
+      }
+    </style>
+    <path d="M12 0.297c-6.63 0-12 5.373-12 12 0 5.303 ..."></path>
+  </svg>
 </div>
+
 
 
 
