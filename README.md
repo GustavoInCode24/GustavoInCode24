@@ -59,23 +59,12 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ---
 
-### 🧰 **Ferramentas**
+### 🧰 Ferramentas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <svg width="50" height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      svg path {
-        fill: black; 
-      }
-      @media (prefers-color-scheme: dark) {
-        svg path {
-          fill: white; 
-        }
-      }
-    </style>
-    <path d="M12 0.297c-6.63 0-12 5.373-12 12 0 5.303 ..."></path>
-  </svg>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="50" height="50" alt="GitHub"/>
 </div>
+  
 ---
 
 
