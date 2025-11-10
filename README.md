@@ -12,9 +12,6 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ## 🛠️ Tecnologias & Ferramentas
 
-
-# 💻 Tecnologias Utilizadas
-
 ### 🚀 **Frontend**
 | HTML5 | CSS3 | JavaScript |
 |:------:|:------:|:------:|
