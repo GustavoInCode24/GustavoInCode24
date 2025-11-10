@@ -66,24 +66,18 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
   <svg width="50" height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <style>
-      /* Define cor de acordo com tema do sistema */
       svg path {
-        fill: black; /* padrão claro */
+        fill: black; 
       }
       @media (prefers-color-scheme: dark) {
         svg path {
-          fill: white; /* fundo escuro */
+          fill: white; 
         }
       }
     </style>
     <path d="M12 0.297c-6.63 0-12 5.373-12 12 0 5.303 ..."></path>
   </svg>
 </div>
-
-
-
-
-
 ---
 
 
