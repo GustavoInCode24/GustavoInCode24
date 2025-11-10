@@ -80,11 +80,19 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 
 
-## 🌐 Onde me encontrar
+## 🌐 Onde me Encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavolemosdeoliveira)  
-
-- 📧 gugalemos103@gmail.com  
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.linkedin.com/in/gustavolemosdeoliveira">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/GustavoInCode24">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/github.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:gugalemos103@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/new-post.png" width="40" height="40"/>
+  </a>
+</div> 
 
 
 
