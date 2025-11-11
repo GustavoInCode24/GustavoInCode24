@@ -83,7 +83,7 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ## 🌐 Onde me Encontrar
 
 <div style="display: flex; gap: 15px; align-items: center;">
-  <a href="[https://www.linkedin.com/in/gustavolemosdeoliveira](https://www.linkedin.com/in/gustavo-lemos-de-oliveira-31590b322)">
+  <a href="[[https://www.linkedin.com/in/gustavolemosdeoliveira](https://www.linkedin.com/in/gustavo-lemos-de-oliveira-31590b322)](https://www.linkedin.com/in/gustavo-lemos-de-oliveira-31590b322)">
     <img src="https://img.icons8.com/ios-filled/50/1E90FF/linkedin.png" width="40" height="40"/>
   </a>
   <a href="https://github.com/GustavoInCode24">
