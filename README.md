@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Gustavo Lemos de Oliveira
 
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&width=435&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
+</p>
+
 I'm a Full Stack Developer in training at Fatec Praia Grande, driven by the challenge of transforming complex ideas into efficient, secure, and intuitive digital solutions.
 With a multidisciplinary approach, I work on development for both web and mobile platforms, constantly exploring new tools, frameworks, and methodologies to push the boundaries of what technology can deliver.
 
