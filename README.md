@@ -86,13 +86,13 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ## 🌐 Onde me Encontrar
 
 <div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://linkedin.com/in/gustavo-lemos-de-oliveira-31590b322">
+  <a href="https://linkedin.com/in/gustavo-lemos-de-oliveira-31590b322" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/GustavoInCode24">
+  <a href="https://github.com/GustavoInCode24" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100" height="40" alt="GitHub"/>
   </a>
-  <a href="mailto:gugalemos103@gmail.com">
+  <a href="mailto:gugalemos103@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="40" alt="Email"/>
   </a>
 </div>
