@@ -89,7 +89,7 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 <div style="display: flex; gap: 15px; align-items: center;">
 
-<a href="https://linkedin.com/in/gustavo-lemos-de-oliveira-31590b322" style="text-decoration: none; border: 0;">
+<a href="https://linkedin.com/in/gustavolemosoliveira" style="text-decoration: none; border: 0;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="40" alt="LinkedIn" style="border: 0;"/>
 </a>
  
