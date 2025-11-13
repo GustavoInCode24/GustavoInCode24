@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Gustavo Lemos de Oliveira
 
 <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1E90FF&width=435&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=26A69A&width=435&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 I'm a Full Stack Developer in training at Fatec Praia Grande, driven by the challenge of transforming complex ideas into efficient, secure, and intuitive digital solutions.
@@ -87,17 +87,16 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ## 🌐 Onde me Encontrar
 
 <div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://linkedin.com/in/gustavo-lemos-de-oliveira-31590b322">
-    <img src="https://img.icons8.com/ios-filled/50/1E90FF/linkedin.png" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/GustavoInCode24">
-    <img src="https://img.icons8.com/ios-filled/50/1E90FF/github.png" width="40" height="40"/>
-  </a>
-  <a href="mailto:gugalemos103@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/1E90FF/new-post.png" width="40" height="40"/>
-  </a>
-</div> 
-
+  <a href="https://linkedin.com/in/gustavo-lemos-de-oliveira-31590b322">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/GustavoInCode24">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/github.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:gugalemos103@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/1E90FF/new-post.png" width="40" height="40"/>
+  </a>
+</div>
 
 
 
