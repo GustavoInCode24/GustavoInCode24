@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Gustavo Lemos de Oliveira
+# 👋 
+<p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=26A69A&width=200&lines=Hello!" alt="Hello Typing SVG" />
+</p>
+I'm Gustavo Lemos de Oliveira
 
 <p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=26A69A&width=435&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
