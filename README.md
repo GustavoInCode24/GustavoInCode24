@@ -61,13 +61,14 @@ With a multidisciplinary approach, I work on development for both web and mobile
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40" alt="Neo4j"/>
 </div>
 
 ---
 
 ### 🧰 Ferramentas
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="50" height="50" alt="GitHub"/>
 </div>
   
