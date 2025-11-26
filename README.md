@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0099FF" alt="Banner de Onda Azul" width="100%" />
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=26A69A&width=500&lines=Hello,+I'm+Gustavo+Lemos" alt="Hello Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0099FF&width=500&lines=Hello,+I'm+Gustavo+Lemos" alt="Hello Typing SVG" />
 </h1>
 <p align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=26A69A&width=435&lines=Full+Stack+Developer+in+training;Transforming+ideas+into+solutions;Tech+Explorer" alt="Typing SVG" />
@@ -103,6 +103,5 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Banner de Onda" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Banner de Onda no Rodapé" width="100%" />
 
