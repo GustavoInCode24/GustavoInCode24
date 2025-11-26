@@ -103,5 +103,5 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Banner de Onda no Rodapé" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0099FF" alt="Banner de Onda no Rodapé" width="100%" />
 
