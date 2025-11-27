@@ -79,11 +79,12 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ### 🔹 Estatísticas Gerais
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=midnight_blue&include_all_commits=true&count_private=true)](https://github.com/GustavoInCode24)
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/GustavoInCode24)
 
 ### 🔹 Linguagens Mais Usadas 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=midnight_blue)](https://github.com/GustavoInCode24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=github_dark)](https://github.com/GustavoInCode24)
+
 ## 🌐 Onde me Encontrar
 
 <div style="display: flex; gap: 15px; align-items: center;">
