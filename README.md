@@ -84,6 +84,13 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ### 🔹 Linguagens Mais Usadas 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=radical)](https://github.com/GustavoInCode24)
+
+### 🔹 Histórico de Contribuições (Streak)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoInCode24&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ## 🌐 Onde me Encontrar
 
 <div style="display: flex; gap: 15px; align-items: center;">
