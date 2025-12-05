@@ -77,7 +77,6 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ## 📊 Estatísticas do GitHub 
 
-### 🔹 Estatísticas de GitHub
 
 <p align="center">
   <img 
