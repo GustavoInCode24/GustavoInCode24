@@ -81,13 +81,13 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&width=48%" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&width=48%" 
     alt="Gustavo's GitHub stats" 
     style="margin-right: 15px;"
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&theme=blue-green&width=48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=blue-green&width=48%" 
     alt="Top Langs"
   />
 </p>
@@ -97,7 +97,7 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ### 🔹 Histórico de Contribuições (Streak)
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoInCode24&theme=blue-green)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=blue-green)](https://git.io/streak-stats)
 </p>
 ---
 
