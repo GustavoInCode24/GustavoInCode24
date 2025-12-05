@@ -77,22 +77,28 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ## 📊 Estatísticas do GitHub 
 
-## 🧛 Estatísticas Gerais
+### 🔹 Estatísticas de GitHub
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/GustavoInCode24)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoInCode24&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&width=48%" 
+    alt="Gustavo's GitHub stats" 
+    style="margin-right: 15px;"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&theme=blue-green&width=48%" 
+    alt="Top Langs"
+  />
+</p>
 
 ---
 
-## 💻 Linguagens Mais Usadas
+### 🔹 Histórico de Contribuições (Streak)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoInCode24&layout=compact&theme=dracula)](https://github.com/GustavoInCode24)
-
----
-
-## 🗓️ Histórico de Contribuições (Streak)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoInCode24&theme=dracula)](https://git.io/streak-stats)
-
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoInCode24&theme=blue-green)](https://git.io/streak-stats)
+</p>
 ---
 
 ## 🌐 Onde me Encontrar
