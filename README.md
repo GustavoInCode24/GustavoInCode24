@@ -76,14 +76,19 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ### 📊 Estatísticas de GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)](https://github.com/GustavoLDO)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=blue-green&layout=compact)](https://github.com/GustavoLDO)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=blue-green&include_all_commits=true" alt="Gustavo's GitHub stats" width="48%">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=blue-green&layout=compact" alt="Top Langs" width="48%">
+</div>
 
 ---
 
 ### 🗓️ Histórico de Contribuições (Streak)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=blue-green)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=blue-green)](https://git.io/streak-stats)
+</div>
 
 ## 🌐 Onde me Encontrar
 
