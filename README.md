@@ -76,23 +76,14 @@ With a multidisciplinary approach, I work on development for both web and mobile
 
 ### 📊 Estatísticas de GitHub
 
-<div align="center">
-  <a href="https://github.com/GustavoLDO">
-    ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=blue-green&include_all_commits=true&width=48%)
-  </a>
-  
-  <a href="https://github.com/GustavoLDO">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=blue-green&layout=compact&width=48%)
-  </a>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/GustavoLDO)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=algolia&layout=compact)](https://github.com/GustavoLDO)
 
 ---
 
 ### 🗓️ Histórico de Contribuições (Streak)
 
-<div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=blue-green)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoLDO&theme=algolia)](https://git.io/streak-stats)>
 
 ## 🌐 Onde me Encontrar
 
