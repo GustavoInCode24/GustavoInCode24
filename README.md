@@ -77,9 +77,22 @@ With a multidisciplinary approach, I work on development for both web and mobile
 ### 📊 Estatísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=blue-green&include_all_commits=true" alt="Gustavo's GitHub stats" width="48%">
+  <a href="https://github.com/GustavoLDO">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=GustavoLDO&show_icons=true&theme=blue-green&include_all_commits=true" 
+      alt="Gustavo's GitHub stats" 
+      width="48%" 
+      style="margin-right: 15px;"
+    />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=blue-green&layout=compact" alt="Top Langs" width="48%">
+  <a href="https://github.com/GustavoLDO">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLDO&theme=blue-green&layout=compact" 
+      alt="Top Langs" 
+      width="48%"
+    />
+  </a>
 </div>
 
 ---
